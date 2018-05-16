@@ -17,8 +17,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/hNadrZ)
-[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40109875-c6752bc0-58fe-11e8-9a01-98c1db295c8b.png)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occurs. This will help you in reproducing bugs and fixing them 10x faster. We highly recommend integrating Instabug’s framework as they compiled a lot of other great features like network logs and screen annotations, providing you with useful and rich data attached to each bug or crash report.
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster. We highly recommend integrating Instabug’s framework as they compiled a lot of other great features like network logs and screen annotations, providing you with useful and rich data attached to each bug or crash report.
 Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 5-minute installation guide.**](https://goo.gl/q93Qtd)🚀
 [![](https://goo.gl/A74z8Q)](https://instabug.com)
 
