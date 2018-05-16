@@ -18,8 +18,8 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/hNadrZ)
 [![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40109875-c6752bc0-58fe-11e8-9a01-98c1db295c8b.png)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
-They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 5-minute installation guide.**](https://goo.gl/q93Qtd)🚀
+> Instabug has just released visual repro steps feature which will enable you to trace all the views that the user interacted with before the bug or the crash occurs. So you can reproduce bugs and fix it faster, We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
+Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 5-minute installation guide.**](https://goo.gl/q93Qtd)🚀
 [![](https://goo.gl/A74z8Q)](https://instabug.com)
 
 # How to Use
