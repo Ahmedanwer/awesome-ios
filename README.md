@@ -16,10 +16,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-## Recommend awesome SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
-[![ios](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
-> Instabug SDK allows tens of thousands of companies like Lyft, eBay, and T-Mobile to iterate faster and enhance their app quality by receiving detailed bug and crash reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and repro-steps (or steps to reproduce) with each bug or crash report. This minimizes debugging time and helps in tracing weird bugs. [Learn more.](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
+## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/hNadrZ)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40109875-c6752bc0-58fe-11e8-9a01-98c1db295c8b.png)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
+They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 5-minute installation guide.**](https://goo.gl/q93Qtd)🚀
+[![](https://goo.gl/A74z8Q)](https://instabug.com)
 
 # How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
