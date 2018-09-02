@@ -16,9 +16,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-## Recommended SDK for bug and crash reporting [Instabug](https://github.com/marketplace/instabug)
-[![instabug-github](https://user-images.githubusercontent.com/9888943/44792036-517d8680-aba3-11e8-99f5-02578d763fe8.png)](https://github.com/marketplace/instabug)
-> Get super detailed bug reports directly into your GitHub project with Instabug. The level of details Instabug’s SDK grabs with each bug report attracted tens of thousands of companies like Lyft, T-Mobile and eBay. They rely on them enhancing their app quality and iterating faster. We highly recommend integrated Instabug’s framework as they compiled a lot of great features that provides mobile developers with all the details needed in one organized dashboard to fix bugs in minutes, instead of wasting time debugging. [Install from GitHub Marketplace](https://github.com/marketplace/instabug)
+## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/qoc5F8)
+[![instabug-github](https://user-images.githubusercontent.com/9888943/44792036-517d8680-aba3-11e8-99f5-02578d763fe8.png)](https://goo.gl/qoc5F8)
+> Get super detailed bug reports directly into your GitHub project with Instabug. The level of details Instabug’s SDK grabs with each bug report attracted tens of thousands of companies like Lyft, T-Mobile and eBay. They rely on them enhancing their app quality and iterating faster. We highly recommend integrated Instabug’s framework as they compiled a lot of great features that provides mobile developers with all the details needed in one organized dashboard to fix bugs in minutes, instead of wasting time debugging. [Install from GitHub Marketplace](https://goo.gl/qoc5F8)
 [![](https://goo.gl/A74z8Q)](https://instabug.com)
 
 # How to Use
